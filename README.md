@@ -50,33 +50,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🏢 [Ascend — Placement Drive Workflow Management Platform](https://github.com/Raghulkrish76/Ascend)
-> A production-grade **Applicant Tracking System (ATS)** for campus recruitment
-
-- Built with **React · Django REST Framework · MySQL**
-- Features **JWT authentication, RBAC, candidate screening, eligibility filtering**, and multi-stage hiring workflow automation
-- End-to-end recruitment lifecycle management with optimized relational database design
-
----
-
-### 🌿 [Nectar — Virtual Herbal Garden](https://github.com/Raghulkrish76/Nectar)
-> A full-stack web app for exploring and managing herbal plant data
-
-- **React · Django REST Framework · SQLite**
-- JWT auth + RBAC, RESTful APIs with search & filtering, user bookmarks/notes, and an admin dashboard with full CRUD
-
----
-
-### 💬 [Roomly — Peer-Driven Learning Discussion Rooms](https://github.com/Raghulkrish76/Roomly_Peer-Driven-Learning-Discussion-Rooms)
-> A Django-based app for managing real-time study discussion rooms
-
-- **Django · SQLite · HTML/CSS**
-- User authentication, Django ORM, CRUD operations, URL routing, and template rendering
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,13 +60,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghulkrish76&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
-
----
-
-## 🏆 Achievements
-
-- 🥈 **Pre-Finalist — Smart India Hackathon**
-- 💻 **100+ Problems solved on LeetCode**
 
 ---
 
