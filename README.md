@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Raghul 👋</h1>
 
 <p align="center">
-  <b>Electronics & Communication Engineering Student · Full-Stack Developer · Problem Solver</b><br/>
-  Sri Shakthi Institute of Engineering and Technology, 2026 &nbsp;|&nbsp; 8.02 CGPA
+  <b>Electronics & Communication Engineering Student · Full-Stack Developer </b><br/>
 </p>
 
 <p align="center">
@@ -18,10 +17,10 @@
 - 🎓 Final-year **ECE student** with a strong focus on software development
 - 🛠️ I love building **full-stack web applications** with clean architecture and real-world utility
 - 🔐 Experienced with **JWT authentication, RBAC, REST APIs**, and scalable backend design
-- 🧩 100+ problems solved on **LeetCode** — always sharpening DSA skills
-- 🏆 **Pre-Finalist at Smart India Hackathon**
 - 🌱 Currently exploring system design and deepening backend expertise
 - 💼 Actively looking for **fresher / entry-level software developer roles** in India
+- 🧩 100+ problems solved on **LeetCode** — sharpening DSA skills
+- 🏆 **Pre-Finalist at Smart India Hackathon**
 
 ---
 
@@ -69,6 +68,10 @@
   <a href="https://github.com/Raghulkrish76" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Raghulkrish76-181717?style=for-the-badge&logo=github" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raghulkrishnac" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-raghulkrishnac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-> *"First, solve the problem. Then, write the code." — John Johnson*
+> *"Just Start , You can always make it beautiful later!"*
